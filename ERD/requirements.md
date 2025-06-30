@@ -76,4 +76,4 @@ This document explains the design of the Entity-Relationship Diagram (ERD) for a
 
 ## ER Diagram
 
-![ER Diagram](your-exported-image.png)
+![ER Diagram](https://github.com/Ricokamau/alx-airbnb-database/blob/main/ERD/Images/ERD.jpeg?raw=true)
